@@ -1,0 +1,36 @@
+.hover1:hover{
+    background-color: lightblue;
+   transform: scale(1.2);
+}
+.hover2:hover{
+    background-color: lightpink;
+    transform: scale(1.2);
+}
+.hover5:hover{
+    background-color: lightpink;
+    transform: scale(1.2);
+}
+.hover6:hover{
+    background-color: limegreen;
+    transform: scale(1.2);
+}
+.hover7:hover{
+    background-color:lightyellow;
+    transform: scale(1.2);
+}
+.hover8:hover{
+    background-color: lightpink;
+    transform: scale(1.2);
+}
+.hover9:hover{
+    background-color: lightpink;
+    transform: scale(1.2);
+}
+.hover10:hover{
+    background-color:aqua;
+    transform: scale(1.2);
+}
+.hover11:hover{
+    background-color:brown;
+    transform: scale(1.2);
+}
